@@ -67,7 +67,7 @@ For more explained information about plugin override check [Development Override
 
 #### PR Title Format
 
-Use [*Conventional Commits*](https://www.conventionalcommits.org/) to name pull requests, starting with the type of change followed by a description of the change. Use a third person point of view, [active voice](https://www.mongodb.com/docs/meta/style-guide/writing/use-active-voice/#std-label-use-active-voice), and start each description with an uppercase character:
+Use [*Conventional Commits*](https://www.conventionalcommits.org/) to name pull requests, starting with the type of change and followed by a description of the change. Use a third person point of view, [active voice](https://www.mongodb.com/docs/meta/style-guide/writing/use-active-voice/#std-label-use-active-voice), and start each description with an uppercase character:
 
 - `fix: Description of the PR`: a commit of the type fix patches a bug in your codebase (this correlates with PATCH in Semantic Versioning).
 - `chore: Description of the PR`: the commit includes a technical or preventative maintenance task that is necessary for managing the product or the repository, but it is not tied to any specific feature or user story (this correlates with PATCH in Semantic Versioning).
