@@ -92,10 +92,10 @@ Example PR title:
   chore: Upgrades `privatelink_endpoint_service_data_federation_online_archive` resource to auto-generated SDK
   ```
 
-- The example PR title starts with a task type, "chore:"
+In this example:
+- The title starts with a task type, "chore:"
 - The description begins with an uppercase character, "U" in "Upgrades"
-- The description uses active voice with the verb "Upgrades," where the subject is 
-  implicitly the PR itself.
+- The description uses active voice with the verb "Upgrades"
 
 ### Testing the Provider
 
